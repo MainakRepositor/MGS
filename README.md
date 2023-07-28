@@ -1,6 +1,6 @@
-# MTC
+# MGS
 
-Mango Type Classification
+Mango Gradation System
 
 
 

@@ -56,7 +56,7 @@ with st.spinner('Model is being loaded..'):
     
 
 st.write("""
-         # Mango Grade Segragation
+         # Mango Grade Analyzer
          """
          )
 

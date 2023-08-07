@@ -9,7 +9,7 @@ warnings.filterwarnings("ignore")
 
 
 st.set_page_config(
-    page_title="Mango Grade Segregator",
+    page_title="Mango Grade Analyzer",
     page_icon = ":mango:",
     initial_sidebar_state = 'auto'
 )
